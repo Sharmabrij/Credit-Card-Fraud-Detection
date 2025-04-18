@@ -1,3 +1,4 @@
-/config.local
-/tmp
-/cache
+# Ignore raw data
+data/raw/*
+# Keep DVC files tracked
+!.dvc/
