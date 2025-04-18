@@ -1,4 +1,3 @@
-# Ignore raw data
-data/raw/*
-# Keep DVC files tracked
-!.dvc/
+/config.local
+/tmp
+/cache
